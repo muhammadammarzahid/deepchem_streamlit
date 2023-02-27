@@ -1,0 +1,2 @@
+streamlit==1.16.0
+deepchem==2.7.2.dev20230224052732
